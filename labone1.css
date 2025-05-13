@@ -1,0 +1,26 @@
+Body{
+    text-align: center;
+    padding: 0;
+    background-color:rgb(203, 99, 99)
+}
+header{
+    color:white;
+    text-align: center;
+    padding: 1rem;
+}
+nav{
+  color: white;
+}
+main{
+    color:white;
+    padding: 2rem;
+
+}
+section{
+    margin-bottom: 2rem;
+}
+footer{
+    color:white;
+    text-align: center;
+    
+}

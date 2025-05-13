@@ -1,0 +1,29 @@
+<! DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<style>
+body
+{background-color:black;}
+h3{
+    color:bisque;}
+    h2{
+        color: bisque;
+    }
+h4{
+    color:bisque;
+}
+h5{
+    color: bisque;
+}
+h6{
+    color:bisque;
+}
+p{
+    color:antiquewhite;
+}
+footer{
+    color:brown;
+}
+</style>
+</body>
